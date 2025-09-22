@@ -1,0 +1,22 @@
+{
+  "name": "atividade-avaliativa_jhonatan-henrique-favoreto",
+  "version": "1.0.0",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon server.js"
+  },
+  "keywords": [
+    "API",
+    "node",
+    "Senai"],
+  "author": "Jhonatan Henrique Favoreto",
+  "license": "MIT",
+  "description": "API para atividade avaliativa com tema de Teorias de Filmes",
+  "dependencies": {
+    "dotenv": "^17.2.2",
+    "express": "^5.1.0",
+    "nodemon": "^3.1.10"
+  }
+}
